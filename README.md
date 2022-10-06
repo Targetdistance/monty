@@ -251,4 +251,4 @@ ___
 ### **Auth1:** ***Aghogho Ken-Erhimu***
 
 
-Command line interpreter using the C implementation of stacks and ques
+Monty is a scripting language using the C implementation of stacks and queues
